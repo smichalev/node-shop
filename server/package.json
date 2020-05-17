@@ -1,0 +1,30 @@
+{
+  "name": "node-shop-server",
+  "version": "0.0.1",
+  "description": "e-commerce shop node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smichalev/node-shop.git"
+  },
+  "keywords": [
+    "node",
+    "node-shop",
+    "shop",
+    "e-commerce",
+    "vue",
+    "express",
+    "nuxt",
+    "ssr",
+    "realtime"
+  ],
+  "author": "smichalev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smichalev/node-shop/issues"
+  },
+  "homepage": "https://github.com/smichalev/node-shop#readme"
+}
