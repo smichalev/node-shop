@@ -4,7 +4,7 @@
   "description": "e-commerce shop node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "NODE_PATH=. node server.js"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/smichalev/node-shop/issues"
   },
-  "homepage": "https://github.com/smichalev/node-shop#readme"
+  "homepage": "https://github.com/smichalev/node-shop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
