@@ -10,5 +10,5 @@ npm start
 Default settings: 
 
 ```
-port: 3333
+API port: 3333
 ```
